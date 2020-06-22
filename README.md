@@ -10,19 +10,17 @@ Flutter 仿微博客户端：[fitness.apk ](https://github.com/Sky24n/Doc/blob/m
 Flutter 仿滴滴出行：[green_travel_a.apk](https://github.com/Sky24n/Doc/blob/master/apks/green_travel_a.apk)  
 Flutter 玩安卓：[flutter_wanandroid.apk](https://github.com/Sky24n/Doc/blob/master/apks/flutter_wanandroid.apk)
 
-### 1、下载速度最快
+### 1、百度云盘
 
-把本项目迁移到[码云](https://gitee.com)，再clone下载。
+Flutter 仿微博客户端：[提取码: ttbn](https://pan.baidu.com/s/1HgBaR68oJYe7nnOTJlSg0Q)  
+Flutter 仿滴滴出行：[提取码: 5aj6](https://pan.baidu.com/s/1-OrjMwxBwmeo2CF_3cYThg)  
+Flutter 玩安卓：[提取码: ywpj](https://pan.baidu.com/s/1Grhnx5X1UJmSWOI6LxaAMg )  
+Flutter Gallery：[提取码: aavd](https://pan.baidu.com/s/1eORbnkc_HjospykjhUa5IQ)
 
-### 2、百度云盘
+### 2、微云
 
-Flutter 仿微博客户端：[提取码 ttbn](https://pan.baidu.com/s/1HgBaR68oJYe7nnOTJlSg0Q)  
-Flutter 仿滴滴出行：[提取码:5aj6](https://pan.baidu.com/s/1-OrjMwxBwmeo2CF_3cYThg)  
-Flutter 玩安卓：[提取码:ywpj](https://pan.baidu.com/s/1Grhnx5X1UJmSWOI6LxaAMg )
-
-### 3、微云
-
-Flutter 仿微博客户端：[点击下载](https://share.weiyun.com/5T2hhs8c)
+Flutter 仿微博客户端：[点击下载](https://share.weiyun.com/5T2hhs8c)  
+Flutter Gallery：[点击下载](https://share.weiyun.com/QITaMaxT)
 
 ### 3、直接下载本项目
 没有梯子的话应该会很慢。
