@@ -1,4 +1,4 @@
-fitness.apk -> v0.0.2 (arm64-v8a)
+fitness.apk -> v0.0.3 (arm64-v8a)
 
 flutter_wanandroid.apk -> v0.2.5
 

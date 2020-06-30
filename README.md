@@ -2,7 +2,7 @@
 
 由于之前apk是放在github上面的，但近期github外链已无法下载文件。  
 这里为大家提供下载地址！  
-fitness v0.0.2  
+fitness v0.0.3  
 green_travel_a v0.0.7  
 flutter_wanandroid v0.2.5
 
