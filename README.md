@@ -13,7 +13,8 @@ Flutter 仿滴滴出行：[green_travel_a.apk](https://github.com/Sky24n/Doc/blo
 Flutter 玩安卓：[flutter_wanandroid.apk](https://github.com/Sky24n/Doc/blob/master/apks/flutter_wanandroid.apk)
 
 ### 1、百度云盘
-
+ 
+Flutter MossX：[提取码: m5e2](https://pan.baidu.com/s/1rIQBs6rHvcz9WgkgEmO1NQ)  
 Flutter Moss：[提取码: yj79](https://pan.baidu.com/s/1LdGKcHlFAMsdKWk7U1jN_A)  
 Flutter 仿微博客户端：[提取码: ttbn](https://pan.baidu.com/s/1HgBaR68oJYe7nnOTJlSg0Q)  
 Flutter 仿滴滴出行：[提取码: 5aj6](https://pan.baidu.com/s/1-OrjMwxBwmeo2CF_3cYThg)  
@@ -27,3 +28,10 @@ Flutter Gallery：[点击下载](https://share.weiyun.com/QITaMaxT)
 
 ### 3、直接下载本项目
 没有梯子的话应该会很慢。
+
+### [Moss](https://github.com/Sky24n/Moss)
+Flutter百度地图+高德UI+滴滴+微博。  
+下载地址：[网盘: m5e2](https://pan.baidu.com/s/1rIQBs6rHvcz9WgkgEmO1NQ)。
+
+|![](https://s1.ax1x.com/2020/11/08/BTak38.png)|![](https://s1.ax1x.com/2020/11/08/BTa6DH.png)|![](https://s1.ax1x.com/2020/11/08/BTaeBj.png)|
+|:---:|:---:|:---:|
