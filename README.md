@@ -24,7 +24,7 @@ Flutter Gallery：[点击下载](https://share.weiyun.com/QITaMaxT)
 没有梯子的话应该会很慢。
 
 ### [Moss](https://github.com/Sky24n/Moss)
-Flutter GitHub Client，下载地址：[网盘: m5e2](https://pan.baidu.com/s/1rIQBs6rHvcz9WgkgEmO1NQ)。
-
-|![](https://s3.ax1x.com/2021/02/06/ytQBxP.png)|![](https://s3.ax1x.com/2021/02/06/ytQfGn.png)|![](https://s3.ax1x.com/2021/02/06/ytQTqU.png)|
+A GitHub client app developed with Flutter, which supports Android iOS Web.  
+Web ：[Flutter Web](https://sky24n.gitee.io/moss/web/index.html).  
+|![](https://z3.ax1x.com/2021/04/26/gp1hm6.jpg)|![](https://z3.ax1x.com/2021/04/26/gp1Tte.jpg)|![](https://z3.ax1x.com/2021/04/26/gp17fH.jpg)|
 |:---:|:---:|:---:|
