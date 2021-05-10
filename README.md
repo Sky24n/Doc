@@ -25,7 +25,7 @@ Flutter Gallery：[点击下载](https://share.weiyun.com/QITaMaxT)
 
 ### [Moss](https://github.com/Sky24n/Moss)
 A GitHub client app developed with Flutter, which supports Android iOS Web.  
-Web ：[Flutter Web](https://sky24n.github.io/Sky24n/moss/web/index.html).  
+Web ：[Flutter Web](https://sky24n.github.io/Sky24n/moss).  
   
 |![](https://z3.ax1x.com/2021/04/26/gp1hm6.jpg)|![](https://z3.ax1x.com/2021/04/26/gp1Tte.jpg)|![](https://z3.ax1x.com/2021/04/26/gp17fH.jpg)|
 |:---:|:---:|:---:|
